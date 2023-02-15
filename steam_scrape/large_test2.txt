@@ -1,0 +1,2152 @@
+<div class="search_results" data-gpnav="rows" id="search_results">
+ <script type="text/javascript">
+  $J( function() {
+		PopulateTagFacetData( [[122,"1728"],[84,"1527"],[1038,"1511"],[492,"887"],[21,"800"],[4182,"679"],[19,"617"],[3871,"507"],[597,"447"],[4434,"403"],[1684,"400"],[5577,"380"],[9,"373"],[4085,"357"],[599,"323"],[1742,"307"],[3964,"303"],[4231,"281"],[7208,"274"],[3834,"233"],[4166,"226"],[12095,"202"],[6650,"201"],[4726,"196"],[1685,"186"]], [], false );
+					PopulateLangFilterData( [], ["english"] );
+				PopulateDeckCompatFacetData( [[0,"2531"],[2,"173"],[3,"75"],[1,"63"]],  );
+	});
+ </script>
+ <div class="search_results_filtered_warning collapsed important" id="search_results_filtered_warning">
+  <div>
+   2,842 results match your search. 135 titles have been excluded based on your preferences.
+  </div>
+  <div class="settings_tab" data-panel='{"focusable":true,"clickOnActivate":true}' onclick="OnClickShowFilteredContentSettingsModal()">
+  </div>
+ </div>
+ <script>
+  g_strUnfilteredURL = 'https://store.steampowered.com/search/?term=RPG&force_infinite=1&specials=1&ndl=1&ignore_preferences=1';
+ </script>
+ <div id="search_result_container">
+  <div class="search_rule">
+  </div>
+  <!-- Extra empty div to hack around IE7 layout bug -->
+  <div>
+  </div>
+  <!-- End Extra empty div -->
+  <div data-panel='{"maintainY":true,"bFocusRingRoot":true,"flow-children":"column"}' id="search_resultsRows">
+   <!-- List Items -->
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1096900" data-ds-itemkey="App_1096900" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,13906,5577,4085,4434,3871,10695]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1096900/RPG_Maker_MZ/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1096900,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1096900/capsule_sm_120.jpg?t=1676339521" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1096900/capsule_sm_120.jpg?t=1676339521 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1096900/capsule_231x87.jpg?t=1676339521 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker MZ
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Aug 27, 2020
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;82% of the 918 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="4399">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -45%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $79.99
+        </strike>
+       </span>
+       <br/>
+       $43.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="489830" data-ds-crtrids="[33028765,35501445]" data-ds-descids="[5]" data-ds-itemkey="App_489830" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[1695,122,21,4182,1684,4747,4046]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:489830,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_sm_120.jpg?t=1650909796" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_sm_120.jpg?t=1650909796 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/489830/capsule_231x87.jpg?t=1650909796 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       The Elder Scrolls V: Skyrim Special Edition
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 27, 2016
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;94% of the 123,199 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -75%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $39.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="363890" data-ds-itemkey="App_363890" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[5577,13906,122,4085,1649,84,1038]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/363890/RPG_Maker_MV/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:363890,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/363890/capsule_sm_120.jpg?t=1676336723" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/363890/capsule_sm_120.jpg?t=1676336723 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/363890/capsule_231x87.jpg?t=1676336723 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker MV
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+       <span class="platform_img linux">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 23, 2015
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;92% of the 5,480 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1199">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -85%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $79.99
+        </strike>
+       </span>
+       <br/>
+       $11.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="489830,1746860" data-ds-crtrids="[33028765,35501445]" data-ds-descids="[5,2]" data-ds-itemkey="Sub_626153" data-ds-packageid="626153" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,1695,4182,1684,21,5030,4747]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/sub/626153/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;sub&quot;,&quot;id&quot;:626153,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/subs/626153/capsule_sm_120.jpg?t=1636655194" srcset="https://cdn.cloudflare.steamstatic.com/steam/subs/626153/capsule_sm_120.jpg?t=1636655194 1x, https://cdn.cloudflare.steamstatic.com/steam/subs/626153/capsule_231x87.jpg?t=1636655194 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       The Elder Scrolls V: Skyrim Anniversary Edition
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Nov 10, 2021
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;93% of the 127,359 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1649">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -67%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $49.99
+        </strike>
+       </span>
+       <br/>
+       $16.49
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1218210" data-ds-crtrids="[38394018]" data-ds-itemkey="App_1218210" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[916648,1677,5652,3964,4434,4747,3871]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1218210/Coromon/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1218210,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1218210/capsule_sm_120_alt_assets_0.jpg?t=1676308842" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1218210/capsule_sm_120_alt_assets_0.jpg?t=1676308842 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1218210/capsule_231x87_alt_assets_0.jpg?t=1676308842 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Coromon
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Mar 31, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;87% of the 3,089 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="2013360" data-ds-crtrids="[33216152]" data-ds-itemkey="App_2013360" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[21,3964,3987,4106,3871,4486,3834]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/2013360/The_Oregon_Trail/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:2013360,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2013360/capsule_sm_120.jpg?t=1669986995" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/2013360/capsule_sm_120.jpg?t=1669986995 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/2013360/capsule_231x87.jpg?t=1669986995 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       The Oregon Trail
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Nov 14, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;77% of the 331 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1799">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -40%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $29.99
+        </strike>
+       </span>
+       <br/>
+       $17.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="780290" data-ds-crtrids="[32977515]" data-ds-itemkey="App_780290" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[17389,1685,122,1677,1770,1720,9]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/780290/Gloomhaven/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:780290,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/780290/capsule_sm_120.jpg?t=1674746106" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/780290/capsule_sm_120.jpg?t=1674746106 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/780290/capsule_231x87.jpg?t=1674746106 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Gloomhaven
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 20, 2021
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;86% of the 10,385 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="2624">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -25%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $34.99
+        </strike>
+       </span>
+       <br/>
+       $26.24
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="327070" data-ds-crtrids="[37395807]" data-ds-itemkey="App_327070" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[1754,4172,1695,128,19,122,3859]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/327070/Gloria_Victis_Medieval_MMORPG/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:327070,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/327070/capsule_sm_120.jpg?t=1675800841" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/327070/capsule_sm_120.jpg?t=1675800841 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/327070/capsule_231x87.jpg?t=1675800841 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Gloria Victis: Medieval MMORPG
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Feb 7, 2023
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;69% of the 6,094 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"10","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":488238,"m_rgIncludedAppIDs":[1096900],"m_bPackageDiscounted":true,"m_nBasePriceInCents":7999,"m_nFinalPriceInCents":4399,"m_nFinalPriceWithBundleDiscount":3959},{"m_nPackageID":80322,"m_rgIncludedAppIDs":[363890],"m_bPackageDiscounted":true,"m_nBasePriceInCents":7999,"m_nFinalPriceInCents":1199,"m_nFinalPriceWithBundleDiscount":1079}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="18430" data-ds-itemkey="Bundle_18430" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,13906,5577,4085,4434,3871,84]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/18430/RPG_Maker_MV_x_MZ_Bundle/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:18430,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/18430/zeg6axpzzvtk1mmj/capsule_sm_120.jpg?t=1635933909" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/18430/zeg6axpzzvtk1mmj/capsule_sm_120.jpg?t=1635933909 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/18430/zeg6axpzzvtk1mmj/capsule_231x87.jpg?t=1635933909 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker MV x MZ Bundle
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;90% of the 6,398 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="5038">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -69%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $159.98
+        </strike>
+       </span>
+       <br/>
+       $50.38
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="454650" data-ds-crtrids="[33042543]" data-ds-itemkey="App_454650" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[4085,1743,4747,19,3859,21,128]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/454650/DRAGON_BALL_XENOVERSE_2/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:454650,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/454650/capsule_sm_120.jpg?t=1668788616" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/454650/capsule_sm_120.jpg?t=1668788616 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/454650/capsule_231x87.jpg?t=1668788616 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       DRAGON BALL XENOVERSE 2
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 27, 2016
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;89% of the 29,178 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="749">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -85%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $49.99
+        </strike>
+       </span>
+       <br/>
+       $7.49
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1325200" data-ds-crtrids="[33016879]" data-ds-descids="[2,5]" data-ds-itemkey="App_1325200" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,19,29482,4747,4026,1685,4434]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1325200/Nioh_2__The_Complete_Edition/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1325200,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_sm_120.jpg?t=1673511835" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_sm_120.jpg?t=1673511835 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/capsule_231x87.jpg?t=1673511835 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Nioh 2 – The Complete Edition
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Feb 5, 2021
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;88% of the 24,291 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="2999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -40%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $49.99
+        </strike>
+       </span>
+       <br/>
+       $29.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1746860" data-ds-crtrids="[33028765,35501445]" data-ds-descids="[2,5]" data-ds-itemkey="App_1746860" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,5030,1695,4182,1684,4667,7478]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1746860,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1746860/capsule_sm_120.jpg?t=1636606959" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1746860/capsule_sm_120.jpg?t=1636606959 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1746860/capsule_231x87.jpg?t=1636606959 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       The Elder Scrolls V: Skyrim Anniversary Upgrade
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Nov 10, 2021
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;58% of the 4,164 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"15","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":488238,"m_rgIncludedAppIDs":[1096900],"m_bPackageDiscounted":true,"m_nBasePriceInCents":7999,"m_nFinalPriceInCents":4399,"m_nFinalPriceWithBundleDiscount":3739},{"m_nPackageID":472623,"m_rgIncludedAppIDs":[1350990],"m_bPackageDiscounted":true,"m_nBasePriceInCents":1199,"m_nFinalPriceInCents":719,"m_nFinalPriceWithBundleDiscount":611},{"m_nPackageID":472629,"m_rgIncludedAppIDs":[1351010],"m_bPackageDiscounted":true,"m_nBasePriceInCents":3499,"m_nFinalPriceInCents":2099,"m_nFinalPriceWithBundleDiscount":1784},{"m_nPackageID":472632,"m_rgIncludedAppIDs":[1351020],"m_bPackageDiscounted":true,"m_nBasePriceInCents":1499,"m_nFinalPriceInCents":899,"m_nFinalPriceWithBundleDiscount":764},{"m_nPackageID":472635,"m_rgIncludedAppIDs":[1351030],"m_bPackageDiscounted":true,"m_nBasePriceInCents":1999,"m_nFinalPriceInCents":1199,"m_nFinalPriceWithBundleDiscount":1019},{"m_nPackageID":479301,"m_rgIncludedAppIDs":[1366640],"m_bPackageDiscounted":true,"m_nBasePriceInCents":2499,"m_nFinalPriceInCents":1749,"m_nFinalPriceWithBundleDiscount":1487}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="15854" data-ds-itemkey="Bundle_15854" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,1038,84,13906,5577,4085,4434]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/15854/RPG_Maker_MZ_Bundle_S/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:15854,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/15854/6hnx3h0ynxdhs7vb/capsule_sm_120.jpg?t=1597122352" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/15854/6hnx3h0ynxdhs7vb/capsule_sm_120.jpg?t=1597122352 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/15854/6hnx3h0ynxdhs7vb/capsule_231x87.jpg?t=1597122352 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker MZ Bundle S
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;80% of the 985 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="9404">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $186.94
+        </strike>
+       </span>
+       <br/>
+       $94.04
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="536270" data-ds-crtrids="[34024188]" data-ds-itemkey="App_536270" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[1100689,1695,3834,1662,21,4182,1702]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/536270/Ancestors_The_Humankind_Odyssey/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:536270,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/536270/capsule_sm_120.jpg?t=1670023669" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/536270/capsule_sm_120.jpg?t=1670023669 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/536270/capsule_231x87.jpg?t=1670023669 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Ancestors: The Humankind Odyssey
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Aug 27, 2020
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;80% of the 5,657 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -75%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $39.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1794680" data-ds-itemkey="App_1794680" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[42804,4885,3964,3959,3871,492,4018]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1794680/Vampire_Survivors/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1794680,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/capsule_sm_120.jpg?t=1674639510" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/capsule_sm_120.jpg?t=1674639510 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/capsule_231x87.jpg?t=1674639510 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Vampire Survivors
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 20, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;98% of the 175,432 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="399">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -20%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $4.99
+        </strike>
+       </span>
+       <br/>
+       $3.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="220700" data-ds-itemkey="App_220700" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[13906,122,5577,84,8013,1649,4085]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/220700/RPG_Maker_VX_Ace/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:220700,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/220700/capsule_sm_120.jpg?t=1675842497" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/220700/capsule_sm_120.jpg?t=1675842497 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/220700/capsule_231x87.jpg?t=1675842497 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker VX Ace
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Dec 10, 2012
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;94% of the 2,861 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="699">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -90%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $69.99
+        </strike>
+       </span>
+       <br/>
+       $6.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1139980" data-ds-crtrids="[35159354,39220934,36699014]" data-ds-itemkey="App_1139980" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[10235,3964,87918,12472,9204,122,5652]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1139980/Travellers_Rest/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1139980,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1139980/capsule_sm_120.jpg?t=1676202705" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1139980/capsule_sm_120.jpg?t=1676202705 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1139980/capsule_231x87.jpg?t=1676202705 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Travellers Rest
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Jul 28, 2020
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;91% of the 4,354 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1199">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -20%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $14.99
+        </strike>
+       </span>
+       <br/>
+       $11.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1942280" data-ds-crtrids="[38515064]" data-ds-itemkey="App_1942280" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[493,42804,3959,5547,4885,4637,3871]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1942280/Brotato/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1942280,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/capsule_sm_120.jpg?t=1673173938" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/capsule_sm_120.jpg?t=1673173938 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1942280/capsule_231x87.jpg?t=1673173938 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Brotato
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Sep 27, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;97% of the 24,780 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="399">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -20%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $4.99
+        </strike>
+       </span>
+       <br/>
+       $3.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="2003050" data-ds-crtrids="[41407167,42652357]" data-ds-descids="[2,5]" data-ds-itemkey="App_2003050" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[19,492,42804,3959,122,21,1716]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/2003050/Perseus_Titan_Slayer/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:2003050,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2003050/capsule_sm_120.jpg?t=1676383260" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/2003050/capsule_sm_120.jpg?t=1676383260 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/2003050/capsule_231x87.jpg?t=1676383260 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Perseus: Titan Slayer
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Feb 13, 2023
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;78% of the 103 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="719">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -10%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $7.99
+        </strike>
+       </span>
+       <br/>
+       $7.19
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1176470" data-ds-crtrids="[27631095,38719421]" data-ds-itemkey="App_1176470" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[9,599,4364,3987,1670,3810,12472]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1176470/Terra_Invicta/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1176470,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1176470/capsule_sm_120.jpg?t=1675940048" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1176470/capsule_sm_120.jpg?t=1675940048 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1176470/capsule_231x87.jpg?t=1675940048 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Terra Invicta
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Sep 26, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;83% of the 3,611 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="3199">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -20%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $39.99
+        </strike>
+       </span>
+       <br/>
+       $31.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1102190" data-ds-crtrids="[33772096]" data-ds-itemkey="App_1102190" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[791774,3959,1666,14139,1716,1775,32322]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1102190/Monster_Train/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1102190,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1102190/capsule_sm_120.jpg?t=1666054291" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1102190/capsule_sm_120.jpg?t=1666054291 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1102190/capsule_231x87.jpg?t=1666054291 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Monster Train
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      May 21, 2020
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;96% of the 15,542 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="499">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -80%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $24.99
+        </strike>
+       </span>
+       <br/>
+       $4.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1135230" data-ds-crtrids="[32977515]" data-ds-itemkey="App_1135230" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[493,42804,3959,3964,1720,1646,21]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1135230/Ember_Knights/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1135230,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1135230/capsule_sm_120_alt_assets_5.jpg?t=1674832626" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1135230/capsule_sm_120_alt_assets_5.jpg?t=1674832626 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1135230/capsule_231x87_alt_assets_5.jpg?t=1674832626 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Ember Knights
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Apr 20, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;95% of the 1,631 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1124">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -25%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $14.99
+        </strike>
+       </span>
+       <br/>
+       $11.24
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1069640" data-ds-crtrids="[37783362]" data-ds-descids="[2,5]" data-ds-itemkey="App_1069640" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[1100689,1662,1695,122,3859,1647,599]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1069640/This_Land_Is_My_Land/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1069640,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1069640/capsule_sm_120.jpg?t=1674568538" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1069640/capsule_sm_120.jpg?t=1674568538 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1069640/capsule_231x87.jpg?t=1674568538 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       This Land Is My Land
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 20, 2021
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;72% of the 3,289 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1499">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $29.99
+        </strike>
+       </span>
+       <br/>
+       $14.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1488200" data-ds-crtrids="[38394018]" data-ds-itemkey="App_1488200" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,21725,1742,1684,21,7208,3854]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1488200/Symphony_of_War_The_Nephilim_Saga/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1488200,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1488200/capsule_sm_120.jpg?t=1676312351" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1488200/capsule_sm_120.jpg?t=1676312351 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1488200/capsule_231x87.jpg?t=1676312351 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Symphony of War: The Nephilim Saga
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Jun 10, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;95% of the 5,692 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1339">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -33%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $13.39
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1818610" data-ds-crtrids="[41707212]" data-ds-itemkey="App_1818610" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[493,1100689,1662,1663,353880,1702,1695]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1818610/Karagon_Survival_Robot_Riding_FPS/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1818610,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1818610/capsule_sm_120.jpg?t=1676313542" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1818610/capsule_sm_120.jpg?t=1676313542 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1818610/capsule_231x87.jpg?t=1676313542 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Karagon (Survival Robot Riding FPS)
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Feb 13, 2023
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary mixed" data-tooltip-html="Mixed&lt;br&gt;62% of the 24 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1799">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -10%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $17.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"15","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":644402,"m_rgIncludedAppIDs":[1794680],"m_bPackageDiscounted":true,"m_nBasePriceInCents":499,"m_nFinalPriceInCents":399,"m_nFinalPriceWithBundleDiscount":339},{"m_nPackageID":799655,"m_rgIncludedAppIDs":[2230760],"m_bPackageDiscounted":true,"m_nBasePriceInCents":199,"m_nFinalPriceInCents":179,"m_nFinalPriceWithBundleDiscount":152}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="29537" data-ds-itemkey="Bundle_29537" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[492,19,42804,4885,597,122,3964]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/29537/Vampire_Survivors_Game__DLC_Bundle/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:29537,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/29537/l9414qefwkvefen0/capsule_sm_120.jpg?t=1671119352" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/29537/l9414qefwkvefen0/capsule_sm_120.jpg?t=1671119352 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/29537/l9414qefwkvefen0/capsule_231x87.jpg?t=1671119352 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Vampire Survivors: Game + DLC Bundle
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;98% of the 176,938 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="491">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -30%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $6.98
+        </strike>
+       </span>
+       <br/>
+       $4.91
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="485510" data-ds-crtrids="[33016879]" data-ds-itemkey="App_485510" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[29482,19,122,4026,1646,4604,1688]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/485510/Nioh_Complete_Edition/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:485510,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/485510/capsule_sm_120.jpg?t=1673577883" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/485510/capsule_sm_120.jpg?t=1673577883 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/485510/capsule_231x87.jpg?t=1673577883 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Nioh: Complete Edition
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Nov 7, 2017
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;79% of the 23,432 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1249">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -75%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $49.99
+        </strike>
+       </span>
+       <br/>
+       $12.49
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="521880" data-ds-itemkey="App_521880" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[13906,1038,84,4434,5577,1036,8013]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/521880/RPG_Maker_VX/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:521880,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/521880/capsule_sm_120.jpg?t=1675842586" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/521880/capsule_sm_120.jpg?t=1675842586 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/521880/capsule_231x87.jpg?t=1675842586 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker VX
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 20, 2016
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;85% of the 76 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="399">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -90%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $39.99
+        </strike>
+       </span>
+       <br/>
+       $3.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="235900" data-ds-itemkey="App_235900" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[13906,122,1038,5577,84,4085,4434]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/235900/RPG_Maker_XP/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:235900,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/235900/capsule_sm_120.jpg?t=1675842666" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/235900/capsule_sm_120.jpg?t=1675842666 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/235900/capsule_231x87.jpg?t=1675842666 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker XP
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Dec 13, 2013
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;92% of the 774 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="249">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -90%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $24.99
+        </strike>
+       </span>
+       <br/>
+       $2.49
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="837510" data-ds-crtrids="[39252092]" data-ds-itemkey="App_837510" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[19,597,13906,3964,84,87,1038]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/837510/Pixel_Game_Maker_MV/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:837510,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/837510/capsule_sm_120.jpg?t=1673488667" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/837510/capsule_sm_120.jpg?t=1673488667 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/837510/capsule_231x87.jpg?t=1673488667 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Pixel Game Maker MV
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Sep 19, 2019
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;74% of the 416 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1699">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -80%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $84.99
+        </strike>
+       </span>
+       <br/>
+       $16.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="362870" data-ds-itemkey="App_362870" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[13906,84,122,1038,5577,4434,1036]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/362870/RPG_Maker_2003/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:362870,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/362870/capsule_sm_120.jpg?t=1675842779" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/362870/capsule_sm_120.jpg?t=1675842779 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/362870/capsule_231x87.jpg?t=1675842779 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker 2003
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Apr 24, 2015
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;92% of the 527 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="199">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -90%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $1.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"6","m_bMustPurchaseAsSet":1,"m_rgItems":[{"m_nPackageID":234984,"m_rgIncludedAppIDs":[780290],"m_bPackageDiscounted":true,"m_nBasePriceInCents":3499,"m_nFinalPriceInCents":2624,"m_nFinalPriceWithBundleDiscount":2467},{"m_nPackageID":650638,"m_rgIncludedAppIDs":[1809490],"m_bPackageDiscounted":false,"m_nBasePriceInCents":1799,"m_nFinalPriceInCents":1799,"m_nFinalPriceWithBundleDiscount":1691}],"m_bIsCommercial":false,"m_bRestrictGifting":false}' data-ds-bundleid="26143" data-ds-crtrids="[32977515]" data-ds-itemkey="Bundle_26143" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,9,1770,17389,21,1685,1677]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/26143/Gloomhaven__Collection_Bundle/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:26143,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/26143/z6omffnmpvl3dpg7/capsule_sm_120.jpg?t=1652793921" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/26143/z6omffnmpvl3dpg7/capsule_sm_120.jpg?t=1652793921 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/26143/z6omffnmpvl3dpg7/capsule_231x87.jpg?t=1652793921 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Gloomhaven - Collection Bundle
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;86% of the 10,426 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="4158">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -22%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $52.98
+        </strike>
+       </span>
+       <br/>
+       $41.58
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="755500" data-ds-crtrids="[33042543]" data-ds-itemkey="App_755500" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[19,21,4085,1695,4182,1681,3859]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/755500/ONE_PIECE_World_Seeker/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:755500,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/755500/capsule_sm_120.jpg?t=1671090141" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/755500/capsule_sm_120.jpg?t=1671090141 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/755500/capsule_231x87.jpg?t=1671090141 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       ONE PIECE World Seeker
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Mar 14, 2019
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;78% of the 2,690 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="899">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -85%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $59.99
+        </strike>
+       </span>
+       <br/>
+       $8.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="293780" data-ds-crtrids="[32968909]" data-ds-itemkey="App_293780" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[3964,1720,7368,42804,4840,492,3841]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/293780/Crawl/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:293780,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/293780/capsule_sm_120.jpg?t=1668050557" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/293780/capsule_sm_120.jpg?t=1668050557 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/293780/capsule_231x87.jpg?t=1668050557 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Crawl
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+       <span class="platform_img linux">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Apr 11, 2017
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;95% of the 4,776 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="299">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -80%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $14.99
+        </strike>
+       </span>
+       <br/>
+       $2.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1337760" data-ds-crtrids="[33118116,32977561]" data-ds-itemkey="App_1337760" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[4182,4305,4434,3964,10235,97376,9551]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1337760/Potion_Permit/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1337760,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1337760/capsule_sm_120.jpg?t=1674727254" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1337760/capsule_sm_120.jpg?t=1674727254 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1337760/capsule_231x87.jpg?t=1674727254 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Potion Permit
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Sep 22, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;79% of the 2,175 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1599">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -20%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $15.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"12","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":199943,"m_rgIncludedAppIDs":[377160,435870,435880,435881,480630,480631,490650],"m_bPackageDiscounted":false,"m_nBasePriceInCents":3999,"m_nFinalPriceInCents":3999,"m_nFinalPriceWithBundleDiscount":3519},{"m_nPackageID":626153,"m_rgIncludedAppIDs":[489830,1746860],"m_bPackageDiscounted":true,"m_nBasePriceInCents":4999,"m_nFinalPriceInCents":1649,"m_nFinalPriceWithBundleDiscount":1451}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="24386" data-ds-crtrids="[33028765,35501442,35501445]" data-ds-descids="[5,2]" data-ds-itemkey="Bundle_24386" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,1695,3835,4182,21,1663,3810]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/24386/Skyrim_Anniversary_Edition__Fallout_4_GOTY_Bundle/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:24386,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/24386/n1u2c0xdpfwgldue/capsule_sm_120.jpg?t=1641576177" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/24386/n1u2c0xdpfwgldue/capsule_sm_120.jpg?t=1641576177 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/24386/n1u2c0xdpfwgldue/capsule_231x87.jpg?t=1641576177 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Skyrim Anniversary Edition + Fallout 4 G.O.T.Y Bundle
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;85% of the 333,540 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="4970">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -45%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $89.98
+        </strike>
+       </span>
+       <br/>
+       $49.70
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="2230760" data-ds-itemkey="App_2230760" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[19,122,492,597,1716]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/2230760/Vampire_Survivors_Legacy_of_the_Moonspell/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:2230760,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/2230760/capsule_sm_120.jpg?t=1671462282" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/2230760/capsule_sm_120.jpg?t=1671462282 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/2230760/capsule_231x87.jpg?t=1671462282 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Vampire Survivors: Legacy of the Moonspell
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Dec 15, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Overwhelmingly Positive&lt;br&gt;96% of the 1,514 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="179">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -10%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $1.99
+        </strike>
+       </span>
+       <br/>
+       $1.79
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="351970" data-ds-crtrids="[33042543]" data-ds-itemkey="App_351970" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[4434,4085,122,1684,1742,1695,4231]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/351970/Tales_of_Zestiria/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:351970,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/351970/capsule_sm_120.jpg?t=1580311636" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/351970/capsule_sm_120.jpg?t=1580311636 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/351970/capsule_231x87.jpg?t=1580311636 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Tales of Zestiria
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 19, 2015
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;82% of the 6,499 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="499">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -90%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $49.99
+        </strike>
+       </span>
+       <br/>
+       $4.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1578650" data-ds-crtrids="[33025617]" data-ds-itemkey="App_1578650" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[7702,17389,4115,122,3942,1742,6815]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1578650/Citizen_Sleeper/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1578650,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1578650/capsule_sm_120.jpg?t=1671690975" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1578650/capsule_sm_120.jpg?t=1671690975 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1578650/capsule_231x87.jpg?t=1671690975 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Citizen Sleeper
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      May 5, 2022
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;94% of the 2,788 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1399">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -30%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $13.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"10","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":110687,"m_rgIncludedAppIDs":[489830],"m_bPackageDiscounted":true,"m_nBasePriceInCents":3999,"m_nFinalPriceInCents":999,"m_nFinalPriceWithBundleDiscount":899},{"m_nPackageID":1679,"m_rgIncludedAppIDs":[22330,22330],"m_bPackageDiscounted":false,"m_nBasePriceInCents":1999,"m_nFinalPriceInCents":1999,"m_nFinalPriceWithBundleDiscount":1799},{"m_nPackageID":1680,"m_rgIncludedAppIDs":[22320],"m_bPackageDiscounted":false,"m_nBasePriceInCents":1499,"m_nFinalPriceInCents":1499,"m_nFinalPriceWithBundleDiscount":1349}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="15347" data-ds-crtrids="[33028765,35501445]" data-ds-descids="[5]" data-ds-itemkey="Bundle_15347" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,1695,1684,4182,1669,21,3839]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/15347/Elder_Scrolls_Summer_Bundle/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:15347,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/15347/52fqqtjt58qgz098/capsule_sm_120.jpg?t=1592502441" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/15347/52fqqtjt58qgz098/capsule_sm_120.jpg?t=1592502441 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/15347/52fqqtjt58qgz098/capsule_231x87.jpg?t=1592502441 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Elder Scrolls Summer Bundle
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;94% of the 171,654 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="4047">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -46%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $74.97
+        </strike>
+       </span>
+       <br/>
+       $40.47
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"10","m_bMustPurchaseAsSet":1,"m_rgItems":[{"m_nPackageID":421781,"m_rgIncludedAppIDs":[1218210],"m_bPackageDiscounted":true,"m_nBasePriceInCents":1999,"m_nFinalPriceInCents":999,"m_nFinalPriceWithBundleDiscount":899},{"m_nPackageID":699434,"m_rgIncludedAppIDs":[1941270],"m_bPackageDiscounted":true,"m_nBasePriceInCents":699,"m_nFinalPriceInCents":349,"m_nFinalPriceWithBundleDiscount":314}],"m_bIsCommercial":false,"m_bRestrictGifting":false}' data-ds-bundleid="25485" data-ds-crtrids="[38394018]" data-ds-itemkey="Bundle_25485" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[916648,1677,5652,3964,4434,4747]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/25485/Coromon_Deluxe_Edition/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:25485,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/25485/qs8m6fcq2f1t34x9/capsule_sm_120.jpg?t=1648764931" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/25485/qs8m6fcq2f1t34x9/capsule_sm_120.jpg?t=1648764931 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/25485/qs8m6fcq2f1t34x9/capsule_231x87.jpg?t=1648764931 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Coromon Deluxe Edition
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+       <span class="platform_img music">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;87% of the 3,093 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1213">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -55%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $26.98
+        </strike>
+       </span>
+       <br/>
+       $12.13
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="715560" data-ds-itemkey="App_715560" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[3834,1695,1654,5411,4166,21,5900]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/715560/Eastshade/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:715560,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/715560/capsule_sm_120.jpg?t=1667001486" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/715560/capsule_sm_120.jpg?t=1667001486 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/715560/capsule_231x87.jpg?t=1667001486 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Eastshade
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Feb 13, 2019
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;89% of the 4,223 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1249">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $24.99
+        </strike>
+       </span>
+       <br/>
+       $12.49
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1737340" data-ds-crtrids="[37047916]" data-ds-itemkey="App_1737340" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[4885,1716,3964,19,4975,597,42804]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1737340/Noobs_Want_to_Live/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1737340,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1737340/capsule_sm_120.jpg?t=1676370373" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1737340/capsule_sm_120.jpg?t=1676370373 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1737340/capsule_231x87.jpg?t=1676370373 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Noobs Want to Live
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Feb 13, 2023
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;85% of the 122 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="424">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -15%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $4.99
+        </strike>
+       </span>
+       <br/>
+       $4.24
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="526160" data-ds-crtrids="[26684285]" data-ds-itemkey="App_526160" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[1662,1100689,3859,5716,1695,1685,21]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/526160/The_Wild_Eight/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:526160,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/526160/capsule_sm_120.jpg?t=1672158782" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/526160/capsule_sm_120.jpg?t=1672158782 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/526160/capsule_231x87.jpg?t=1672158782 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       The Wild Eight
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Oct 3, 2019
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;71% of the 5,804 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="374">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -85%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $24.99
+        </strike>
+       </span>
+       <br/>
+       $3.74
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="290340" data-ds-crtrids="[32981460]" data-ds-itemkey="App_290340" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[1770,1775,1741,1677,1666,9,122]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/290340/Armello/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:290340,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/290340/capsule_sm_120.jpg?t=1669115057" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/290340/capsule_sm_120.jpg?t=1669115057 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/290340/capsule_231x87.jpg?t=1669115057 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Armello
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+       <span class="platform_img linux">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Sep 1, 2015
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;82% of the 10,240 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -50%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="383730" data-ds-itemkey="App_383730" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[13906,1038,4434,5577,84,1036,122]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/383730/RPG_Maker_2000/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:383730,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/383730/capsule_sm_120.jpg?t=1675842861" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/383730/capsule_sm_120.jpg?t=1675842861 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/383730/capsule_231x87.jpg?t=1675842861 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       RPG Maker 2000
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Jul 13, 2015
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;88% of the 87 user reviews for this software are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="249">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -90%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $24.99
+        </strike>
+       </span>
+       <br/>
+       $2.49
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="429660" data-ds-crtrids="[33042543]" data-ds-itemkey="App_429660" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[4085,4434,122,7208,1742,19,1684]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/429660/Tales_of_Berseria/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:429660,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/429660/capsule_sm_120.jpg?t=1611701975" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/429660/capsule_sm_120.jpg?t=1611701975 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/429660/capsule_231x87.jpg?t=1611701975 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Tales of Berseria™
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Jan 26, 2017
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;92% of the 12,265 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="999">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -80%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $49.99
+        </strike>
+       </span>
+       <br/>
+       $9.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"10","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":92342,"m_rgIncludedAppIDs":[438270],"m_bPackageDiscounted":true,"m_nBasePriceInCents":699,"m_nFinalPriceInCents":209,"m_nFinalPriceWithBundleDiscount":188},{"m_nPackageID":138270,"m_rgIncludedAppIDs":[554600],"m_bPackageDiscounted":true,"m_nBasePriceInCents":699,"m_nFinalPriceInCents":209,"m_nFinalPriceWithBundleDiscount":188},{"m_nPackageID":224218,"m_rgIncludedAppIDs":[759440],"m_bPackageDiscounted":true,"m_nBasePriceInCents":899,"m_nFinalPriceInCents":269,"m_nFinalPriceWithBundleDiscount":242}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="7746" data-ds-crtrids="[36971635]" data-ds-itemkey="Bundle_7746" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[122,492,1036,21,5577,4085,9]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/7746/Learn_Japanese_To_Survive_Trilogy/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:7746,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/7746/igm01lda23mu3tal/capsule_sm_120.jpg?t=1530577793" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/7746/igm01lda23mu3tal/capsule_sm_120.jpg?t=1530577793 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/7746/igm01lda23mu3tal/capsule_231x87.jpg?t=1530577793 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Learn Japanese To Survive! Trilogy
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img mac">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;92% of the 2,229 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="618">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -73%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $22.97
+        </strike>
+       </span>
+       <br/>
+       $6.18
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-bundle-data='{"m_nDiscountPct":"20","m_bMustPurchaseAsSet":0,"m_rgItems":[{"m_nPackageID":52394,"m_rgIncludedAppIDs":[327070],"m_bPackageDiscounted":true,"m_nBasePriceInCents":1999,"m_nFinalPriceInCents":999,"m_nFinalPriceWithBundleDiscount":799},{"m_nPackageID":110159,"m_rgIncludedAppIDs":[488520],"m_bPackageDiscounted":true,"m_nBasePriceInCents":999,"m_nFinalPriceInCents":499,"m_nFinalPriceWithBundleDiscount":399},{"m_nPackageID":223732,"m_rgIncludedAppIDs":[758290],"m_bPackageDiscounted":true,"m_nBasePriceInCents":999,"m_nFinalPriceInCents":499,"m_nFinalPriceWithBundleDiscount":399}],"m_bIsCommercial":false,"m_bRestrictGifting":true}' data-ds-bundleid="3686" data-ds-crtrids="[37395807]" data-ds-itemkey="Bundle_3686" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[128,122,19,4172,492,3859,1754]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/bundle/3686/Gloria_Victis__Supporter_Bundle/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;bundle&quot;,&quot;id&quot;:3686,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/bundles/3686/mxkf7xmhr4a0x4t8/capsule_sm_120.jpg?t=1606922296" srcset="https://cdn.cloudflare.steamstatic.com/steam/bundles/3686/mxkf7xmhr4a0x4t8/capsule_sm_120.jpg?t=1606922296 1x, https://cdn.cloudflare.steamstatic.com/steam/bundles/3686/mxkf7xmhr4a0x4t8/capsule_231x87.jpg?t=1606922296 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Gloria Victis - Supporter Bundle
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+       <span class="platform_img music">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Mostly Positive&lt;br&gt;70% of the 6,128 user reviews for games in this bundle are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1597">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -60%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $39.97
+        </strike>
+       </span>
+       <br/>
+       $15.97
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <a class="search_result_row ds_collapse_flag" data-ds-appid="1227890" data-ds-crtrids="[32398519]" data-ds-descids="[5]" data-ds-itemkey="App_1227890" data-ds-steam-deck-compat-handled="true" data-ds-tagids="[12095,3964,6650,5611,4085,122,599]" data-gpnav="item" data-search-page="1" href="https://store.steampowered.com/app/1227890/Summer_Memories/?snr=1_7_7_2300_150_1" onmouseout="HideGameHover( this, event, 'global_hover' )" onmouseover="GameHover( this, event, 'global_hover', {&quot;type&quot;:&quot;app&quot;,&quot;id&quot;:1227890,&quot;public&quot;:1,&quot;v6&quot;:1} );">
+    <div class="col search_capsule">
+     <img src="https://cdn.cloudflare.steamstatic.com/steam/apps/1227890/capsule_sm_120.jpg?t=1676021553" srcset="https://cdn.cloudflare.steamstatic.com/steam/apps/1227890/capsule_sm_120.jpg?t=1676021553 1x, https://cdn.cloudflare.steamstatic.com/steam/apps/1227890/capsule_231x87.jpg?t=1676021553 2x"/>
+    </div>
+    <div class="responsive_search_name_combined">
+     <div class="col search_name ellipsis">
+      <span class="title">
+       Summer Memories
+      </span>
+      <div>
+       <span class="platform_img win">
+       </span>
+      </div>
+     </div>
+     <div class="col search_released responsive_secondrow">
+      Jun 14, 2020
+     </div>
+     <div class="col search_reviewscore responsive_secondrow">
+      <span class="search_review_summary positive" data-tooltip-html="Very Positive&lt;br&gt;93% of the 9,589 user reviews for this game are positive.">
+      </span>
+     </div>
+     <div class="col search_price_discount_combined responsive_secondrow" data-price-final="1399">
+      <div class="col search_discount responsive_secondrow">
+       <span>
+        -30%
+       </span>
+      </div>
+      <div class="col search_price discounted responsive_secondrow">
+       <span style="color: #888888;">
+        <strike>
+         $19.99
+        </strike>
+       </span>
+       <br/>
+       $13.99
+      </div>
+     </div>
+    </div>
+    <div style="clear: left;">
+    </div>
+   </a>
+   <!-- End List Items -->
+  </div>
+  <div class="search_pagination">
+   <div class="search_pagination_left">
+    showing 1 - 50 of 2842
+   </div>
+   <div class="search_pagination_right">
+    1
+    <a href="https://store.steampowered.com/search/?sort_by=&amp;sort_order=0&amp;term=RPG&amp;specials=1&amp;page=2" onclick="SearchLinkClick( this ); return false;">
+     2
+    </a>
+    <a href="https://store.steampowered.com/search/?sort_by=&amp;sort_order=0&amp;term=RPG&amp;specials=1&amp;page=3" onclick="SearchLinkClick( this ); return false;">
+     3
+    </a>
+    ...
+    <a href="https://store.steampowered.com/search/?sort_by=&amp;sort_order=0&amp;term=RPG&amp;specials=1&amp;page=57" onclick="SearchLinkClick( this ); return false;">
+     57
+    </a>
+    <a class="pagebtn" href="https://store.steampowered.com/search/?sort_by=&amp;sort_order=0&amp;term=RPG&amp;specials=1&amp;page=2" onclick="SearchLinkClick( this ); return false;">
+     &gt;
+    </a>
+   </div>
+   <div style="clear: both;">
+   </div>
+  </div>
+  <div id="search_results_loading" style="display: none">
+   <div class="LoadingWrapper">
+    <div class="LoadingThrobber">
+     <div class="Bar Bar1">
+     </div>
+     <div class="Bar Bar2">
+     </div>
+     <div class="Bar Bar3">
+     </div>
+    </div>
+    <div class="LoadingText">
+     Loading more content...
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
