@@ -7,7 +7,7 @@ Description:
 TODO:
     - Handle case where the results are filtered (Completed)
     - Handle case where there are more than 50 results and the results are paginated (In Progress)
-        - To Decide: We should only do the first 50 results, intended to wishlist not for general search results
+        - To Decide: We should only do the first 50 results, intended to wishlist not for general search
 """
 from bs4 import BeautifulSoup
 import requests
